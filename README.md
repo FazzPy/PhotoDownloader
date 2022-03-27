@@ -1,2 +1,2 @@
 # PhotoDownloader
-Python resim indirme programı 
+Python Tkinter Basit Resim indirme programı.
